@@ -5,5 +5,5 @@ setup(
   version="0.1",
   author="Adeel Ahmad Khan",
   author_email="adeel@adeel.ru",
-  py_modules=["notify"],
+  packages=["notify"],
   license="BSD")
